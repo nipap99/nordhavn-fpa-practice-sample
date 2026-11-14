@@ -1,8 +1,8 @@
 """First look at the Nordhavn sample: monthly revenue, margin and top customers."""
 import pandas as pd
 
-sales = pd.read_csv("data/sales_dk_2025_q1.csv")
-cust = pd.read_csv("data/customers.csv")
+sales = pd.read_csv("sales_dk_2025_q1.csv")
+cust = pd.read_csv("customers.csv")
 
 monthly = sales.groupby("Period").agg(
     net_eur=("Net invoiced (EUR)", "sum"),
