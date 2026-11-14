@@ -1,0 +1,75 @@
+Customer ID,Customer name,Entity,Country,Segment,Channel,Sales rep,Payment terms (days),Standard discount %,Contract rebate %,Credit limit (EUR),Customer since,Status,Key account
+C-DK-10007,Bøge VVS-Grossisten A/S,DK,Denmark,Distributor,Indirect - wholesale,Mads Kjær,60,0.34,0.025,194000,2022-07-01,Active,Y
+C-DK-10014,Hansen VVS-Grossisten A/S,DK,Denmark,Distributor,Indirect - wholesale,Mads Kjær,60,0.351,0.03,2893000,2008-08-01,Active,Y
+C-DK-10021,Vest Varme Grossist A/S,DK,Denmark,Distributor,Indirect - wholesale,Jonas Brandt,60,0.338,0.02,411000,2022-09-01,Active,N
+C-DK-10028,Enge Teknik Engros A/S,DK,Denmark,Distributor,Indirect - wholesale,Mads Kjær,60,0.3,0.035,136000,2023-09-01,Active,Y
+C-DK-10035,Enge Varme Grossist A/S,DK,Denmark,Distributor,Indirect - wholesale,Kasper Holm,60,0.335,0.035,219000,2021-09-01,Active,Y
+C-DK-10042,Lauridsen Varme Grossist A/S,DK,Denmark,Distributor,Indirect - wholesale,Sofie Lund,60,0.355,0.035,385000,2009-08-01,Active,Y
+C-DK-10049,Lunde Varme Grossist A/S,DK,Denmark,Distributor,Indirect - wholesale,Jonas Brandt,60,0.288,0.04,1424000,2021-12-01,Active,Y
+C-DK-10056,Nord VVS ApS,DK,Denmark,Installer,Direct - trade,Kasper Holm,30,0.199,0.0,16000,2023-05-01,Active,N
+C-DK-10063,Lyng VVS & Energi ApS,DK,Denmark,Installer,Direct - trade,Line Østergaard,30,0.19,0.0,6000,2014-09-01,Active,N
+C-DK-10070,Kragh & Søn VVS ApS,DK,Denmark,Installer,Direct - trade,Kasper Holm,45,0.149,0.0,21000,2015-09-01,Active,N
+C-DK-10077,Lauridsen & Søn VVS ApS,DK,Denmark,Installer,Direct - trade,Line Østergaard,45,0.158,0.0,16000,2015-08-01,Active,N
+C-DK-10084,Holm Teknik ApS,DK,Denmark,Installer,Direct - trade,Mads Kjær,45,0.151,0.0,12000,2007-08-01,Active,N
+C-DK-10098,Syd Teknik ApS,DK,Denmark,Installer,Direct - trade,Jonas Brandt,30,0.185,0.0,27000,2019-05-01,Active,N
+C-DK-10105,Strand VVS & Energi ApS,DK,Denmark,Installer,Direct - trade,Mads Kjær,30,0.151,0.0,25000,2020-11-01,Lost,N
+C-DK-10112,Vinther Installation ApS,DK,Denmark,Installer,Direct - trade,Jonas Brandt,45,0.198,0.0,91000,2023-11-01,Active,N
+C-DK-10119,Mølgaard VVS & Energi ApS,DK,Denmark,Installer,Direct - trade,Sofie Lund,30,0.197,0.0,13000,2016-02-01,Active,N
+C-DK-10126,Bech VVS & Energi ApS,DK,Denmark,Installer,Direct - trade,Kasper Holm,30,0.133,0.0,42000,2022-03-01,Active,N
+C-DK-10140,Lunde VVS & Energi ApS,DK,Denmark,Installer,Direct - trade,Jonas Brandt,30,0.171,0.0,10000,2006-07-01,Active,N
+C-DK-10154,Bøge Teknik ApS,DK,Denmark,Installer,Direct - trade,Line Østergaard,30,0.161,0.0,27000,2013-12-01,Active,N
+C-DK-10161,Lauridsen Installation ApS,DK,Denmark,Installer,Direct - trade,Mads Kjær,30,0.187,0.0,22000,2006-05-01,Active,N
+C-DK-10168,Klit Teknik ApS,DK,Denmark,Installer,Direct - trade,Kasper Holm,30,0.166,0.0,9000,2014-04-01,Active,N
+C-DK-10175,Nord VVS & Energi ApS,DK,Denmark,Installer,Direct - trade,Line Østergaard,30,0.169,0.0,11000,2007-07-01,Active,N
+C-DK-10182,Mose Teknik ApS,DK,Denmark,Installer,Direct - trade,Jonas Brandt,30,0.126,0.0,45000,2014-11-01,Active,N
+C-DK-10189,Bech VVS ApS,DK,Denmark,Installer,Direct - trade,Line Østergaard,30,0.2,0.0,35000,2018-01-01,Active,N
+C-DK-10196,Holm Installation ApS,DK,Denmark,Installer,Direct - trade,Sofie Lund,30,0.166,0.0,14000,2023-01-01,Active,N
+C-DK-10203,Vinther & Søn VVS ApS,DK,Denmark,Installer,Direct - trade,Mads Kjær,30,0.163,0.0,13000,2014-01-01,Active,N
+C-DK-10210,Dahl VVS ApS,DK,Denmark,Installer,Direct - trade,Line Østergaard,45,0.128,0.0,52000,2017-02-01,Active,N
+C-DK-10217,Bakke VVS & Energi ApS,DK,Denmark,Installer,Direct - trade,Sofie Lund,30,0.213,0.0,19000,2019-12-01,Active,N
+C-DK-10224,Bech & Søn VVS ApS,DK,Denmark,Installer,Direct - trade,Sofie Lund,30,0.203,0.0,13000,2020-04-01,Active,N
+C-DK-10231,Hansen & Søn VVS ApS,DK,Denmark,Installer,Direct - trade,Kasper Holm,30,0.192,0.0,10000,2011-10-01,Lost,N
+C-DK-10238,Kyst VVS & Energi ApS,DK,Denmark,Installer,Direct - trade,Kasper Holm,30,0.149,0.0,24000,2024-09-01,Active,N
+C-DK-10252,Øster VVS & Energi ApS,DK,Denmark,Installer,Direct - trade,Sofie Lund,30,0.198,0.0,28000,2007-12-01,Active,N
+C-DK-10259,Vest Teknik ApS,DK,Denmark,Installer,Direct - trade,Sofie Lund,30,0.156,0.0,56000,2010-03-01,Active,N
+C-DK-10266,Klit Installation ApS,DK,Denmark,Installer,Direct - trade,Line Østergaard,30,0.15,0.0,15000,2015-03-01,Active,N
+C-DK-10273,Kyst Installation ApS,DK,Denmark,Installer,Direct - trade,Jonas Brandt,30,0.139,0.0,23000,2005-01-01,Active,N
+C-DK-10280,Kragh Teknik ApS,DK,Denmark,Installer,Direct - trade,Mads Kjær,30,0.177,0.0,31000,2014-03-01,Active,N
+C-DK-10287,Vest VVS & Energi ApS,DK,Denmark,Installer,Direct - trade,Sofie Lund,30,0.146,0.0,63000,2019-08-01,Active,N
+C-DK-10294,Bakke Installation ApS,DK,Denmark,Installer,Direct - trade,Sofie Lund,30,0.177,0.0,14000,2015-03-01,Active,N
+C-DK-10301,Lauridsen VVS & Energi ApS,DK,Denmark,Installer,Direct - trade,Line Østergaard,30,0.195,0.0,49000,2018-11-01,Active,N
+C-DK-10308,Thygesen & Søn VVS ApS,DK,Denmark,Installer,Direct - trade,Sofie Lund,30,0.133,0.0,55000,2022-09-01,Active,N
+C-DK-10315,Skov VVS & Energi ApS,DK,Denmark,Installer,Direct - trade,Kasper Holm,30,0.218,0.0,34000,2016-12-01,Active,N
+C-DK-10322,Hansen VVS & Energi ApS,DK,Denmark,Installer,Direct - trade,Mads Kjær,45,0.205,0.0,59000,2017-02-01,Active,N
+C-DK-10329,Fjord VVS ApS,DK,Denmark,Installer,Direct - trade,Sofie Lund,30,0.157,0.0,15000,2008-11-01,Lost,N
+C-DK-10336,Sø VVS ApS,DK,Denmark,Installer,Direct - trade,Sofie Lund,30,0.158,0.0,17000,2009-02-01,Active,N
+C-DK-10343,Mølgaard & Søn VVS ApS,DK,Denmark,Installer,Direct - trade,Sofie Lund,45,0.168,0.0,25000,2025-03-01,Active,N
+C-DK-10350,Hansen Ejendomsservice A/S,DK,Denmark,Facility Management,Direct - service,Kasper Holm,45,0.098,0.0,31000,2017-05-01,Active,N
+C-DK-10357,Syd Ejendomsservice A/S,DK,Denmark,Facility Management,Direct - service,Jonas Brandt,45,0.095,0.0,20000,2015-04-01,Active,N
+C-DK-10364,Bakke Ejendomsservice A/S,DK,Denmark,Facility Management,Direct - service,Mads Kjær,45,0.111,0.0,25000,2016-06-01,Active,N
+C-DK-10371,Klit Ejendomsservice A/S,DK,Denmark,Facility Management,Direct - service,Kasper Holm,45,0.136,0.0,40000,2005-02-01,Active,N
+C-DK-10378,Hede Drift A/S,DK,Denmark,Facility Management,Direct - service,Kasper Holm,45,0.091,0.0,21000,2017-05-01,Active,N
+C-DK-10385,Vest Drift A/S,DK,Denmark,Facility Management,Direct - service,Sofie Lund,45,0.098,0.0,25000,2021-06-01,Active,N
+C-DK-10392,Krogh Drift A/S,DK,Denmark,Facility Management,Direct - service,Kasper Holm,45,0.121,0.0,70000,2015-02-01,Active,N
+C-DK-10399,Lyng Drift A/S,DK,Denmark,Facility Management,Direct - service,Jonas Brandt,45,0.095,0.0,16000,2021-02-01,Active,N
+C-DK-10406,Skov Drift A/S,DK,Denmark,Facility Management,Direct - service,Jonas Brandt,45,0.087,0.0,40000,2019-07-01,Active,N
+C-DK-10413,Hede Facility Service A/S,DK,Denmark,Facility Management,Direct - service,Kasper Holm,45,0.085,0.0,26000,2018-12-01,Active,N
+C-DK-10420,Bøge Ejendomsservice A/S,DK,Denmark,Facility Management,Direct - service,Kasper Holm,45,0.094,0.0,55000,2006-04-01,Active,N
+C-DK-10427,Sø Byg A/S,DK,Denmark,Contractor,Direct - projects,Kasper Holm,60,0.197,0.0,154000,2021-10-01,Active,N
+C-DK-10441,Skov Entreprise A/S,DK,Denmark,Contractor,Direct - projects,Mads Kjær,60,0.218,0.0,88000,2022-12-01,Active,N
+C-DK-10448,Vinther Totalentreprise A/S,DK,Denmark,Contractor,Direct - projects,Kasper Holm,60,0.178,0.0,73000,2007-12-01,Active,N
+C-DK-10455,Vest Totalentreprise A/S,DK,Denmark,Contractor,Direct - projects,Sofie Lund,60,0.233,0.0,164000,2009-10-01,Active,N
+C-DK-10462,Enge Byg A/S,DK,Denmark,Contractor,Direct - projects,Line Østergaard,60,0.153,0.0,73000,2024-09-01,Active,N
+C-DK-10476,Dahl Byg A/S,DK,Denmark,Contractor,Direct - projects,Line Østergaard,60,0.17,0.0,316000,2013-09-01,Active,N
+C-DK-10490,Øster Entreprise A/S,DK,Denmark,Contractor,Direct - projects,Mads Kjær,60,0.215,0.0,156000,2024-02-01,Active,N
+C-DK-10497,Jensen Entreprise A/S,DK,Denmark,Contractor,Direct - projects,Line Østergaard,60,0.175,0.0,5000,2019-08-01,Lost,N
+C-DK-10504,Krogh Totalentreprise A/S,DK,Denmark,Contractor,Direct - projects,Mads Kjær,60,0.175,0.0,75000,2015-09-01,Active,N
+C-DK-10511,Bech Byg A/S,DK,Denmark,Contractor,Direct - projects,Mads Kjær,60,0.229,0.0,71000,2021-08-01,Active,N
+C-DK-10518,Hede Byg A/S,DK,Denmark,Contractor,Direct - projects,Jonas Brandt,60,0.194,0.0,9000,2011-09-01,Lost,N
+C-DK-10525,Fjordholm Kommune - Ejendomme,DK,Denmark,Public Sector,Direct - tender,Line Østergaard,30,0.113,0.0,16000,2012-12-01,Active,N
+C-DK-10532,Bjergsted Kommune - Ejendomme,DK,Denmark,Public Sector,Direct - tender,Sofie Lund,30,0.105,0.0,18000,2018-04-01,Active,N
+C-DK-10539,Sundbjerg Kommune - Ejendomme,DK,Denmark,Public Sector,Direct - tender,Line Østergaard,30,0.088,0.0,16000,2021-08-01,Active,N
+C-DK-10546,Havnstrup Kommune - Ejendomme,DK,Denmark,Public Sector,Direct - tender,Kasper Holm,30,0.096,0.0,47000,2016-03-01,Active,N
+C-DK-10553,Lyngstrup Kommune - Ejendomme,DK,Denmark,Public Sector,Direct - tender,Mads Kjær,30,0.075,0.0,19000,2022-11-01,Active,N
+C-DK-10560,Egeby Kommune - Ejendomme,DK,Denmark,Public Sector,Direct - tender,Line Østergaard,30,0.087,0.0,25000,2005-08-01,Active,N
+C-DK-10567,Danvarme Grossisten A/S,DK,Denmark,Distributor,Indirect - wholesale,Line Østergaard,60,0.33,0.05,1604000,2011-04-01,Active,Y

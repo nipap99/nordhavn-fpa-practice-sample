@@ -1,0 +1,82 @@
+Period,Entity,Company code,Account,Account name,"Amount (EUR, Dr+ / Cr-)"
+2025-01-01,DK,1100,4000,Sales - Heat pumps,-1281396.21
+2025-01-01,DK,1100,4010,Sales - Ventilation,-263990.41
+2025-01-01,DK,1100,4020,Sales - Boilers,-188668.41
+2025-01-01,DK,1100,4030,Sales - Controls & sensors,-889025.38
+2025-01-01,DK,1100,4040,Sales - Spare parts,-743491.99
+2025-01-01,DK,1100,4100,Service contract revenue,-119788.42
+2025-01-01,DK,1100,4500,Customer rebates,83297.3
+2025-01-01,DK,1100,4600,Returns & credit notes,70.49
+2025-01-01,DK,1100,5000,Material cost at standard,2145388.55
+2025-01-01,DK,1100,5100,Purchase price variance,18763.7
+2025-01-01,DK,1100,5200,Freight out,96266.35
+2025-01-01,DK,1100,5300,Warranty provision,22996.55
+2025-01-01,DK,1100,6000,Salaries,639012.3
+2025-01-01,DK,1100,6010,Social costs & pension,44730.87
+2025-01-01,DK,1100,6020,Bonus accrual,48069.8
+2025-01-01,DK,1100,6100,Travel,21093.42
+2025-01-01,DK,1100,6200,Marketing,33661.88
+2025-01-01,DK,1100,6300,Rent & facilities,97375.0
+2025-01-01,DK,1100,6400,IT & software,45883.83
+2025-01-01,DK,1100,6500,Consultancy & audit,31773.96
+2025-01-01,DK,1100,6600,Vehicle costs,46800.48
+2025-01-01,DK,1100,6700,Other operating costs,10868.11
+2025-01-01,DK,1100,7000,Depreciation,57957.84
+2025-01-01,DK,1100,7100,Management fee (intercompany),-179297.08
+2025-01-01,DK,1100,8000,Interest expense,36900.0
+2025-01-01,DK,1100,8100,FX gains/losses,1074.71
+2025-01-01,DK,1100,9000,Income tax,40408.01
+2025-02-01,DK,1100,4000,Sales - Heat pumps,-1450047.6
+2025-02-01,DK,1100,4010,Sales - Ventilation,-151787.55
+2025-02-01,DK,1100,4020,Sales - Boilers,-204327.84
+2025-02-01,DK,1100,4030,Sales - Controls & sensors,-787631.32
+2025-02-01,DK,1100,4040,Sales - Spare parts,-692921.63
+2025-02-01,DK,1100,4100,Service contract revenue,-120603.77
+2025-02-01,DK,1100,4500,Customer rebates,78032.34
+2025-02-01,DK,1100,4600,Returns & credit notes,14792.1
+2025-02-01,DK,1100,5000,Material cost at standard,2099835.91
+2025-02-01,DK,1100,5100,Purchase price variance,-1562.86
+2025-02-01,DK,1100,5200,Freight out,91396.57
+2025-02-01,DK,1100,5300,Warranty provision,18500.26
+2025-02-01,DK,1100,6000,Salaries,636706.66
+2025-02-01,DK,1100,6010,Social costs & pension,44569.46
+2025-02-01,DK,1100,6020,Bonus accrual,47796.34
+2025-02-01,DK,1100,6100,Travel,18900.12
+2025-02-01,DK,1100,6200,Marketing,28435.85
+2025-02-01,DK,1100,6300,Rent & facilities,97375.0
+2025-02-01,DK,1100,6400,IT & software,48641.16
+2025-02-01,DK,1100,6500,Consultancy & audit,35877.99
+2025-02-01,DK,1100,6600,Vehicle costs,43170.62
+2025-02-01,DK,1100,6700,Other operating costs,10748.98
+2025-02-01,DK,1100,7000,Depreciation,57723.42
+2025-02-01,DK,1100,7100,Management fee (intercompany),-185427.54
+2025-02-01,DK,1100,8000,Interest expense,36900.0
+2025-02-01,DK,1100,8100,FX gains/losses,-16379.82
+2025-02-01,DK,1100,9000,Income tax,44283.17
+2025-03-01,DK,1100,4000,Sales - Heat pumps,-1561853.33
+2025-03-01,DK,1100,4010,Sales - Ventilation,-524633.8
+2025-03-01,DK,1100,4020,Sales - Boilers,-207923.2
+2025-03-01,DK,1100,4030,Sales - Controls & sensors,-888116.0
+2025-03-01,DK,1100,4040,Sales - Spare parts,-651535.06
+2025-03-01,DK,1100,4100,Service contract revenue,-121099.2
+2025-03-01,DK,1100,4500,Customer rebates,88019.55
+2025-03-01,DK,1100,4600,Returns & credit notes,9248.57
+2025-03-01,DK,1100,5000,Material cost at standard,2482279.86
+2025-03-01,DK,1100,5100,Purchase price variance,-29873.67
+2025-03-01,DK,1100,5200,Freight out,123066.68
+2025-03-01,DK,1100,5300,Warranty provision,28245.95
+2025-03-01,DK,1100,6000,Salaries,635702.24
+2025-03-01,DK,1100,6010,Social costs & pension,44499.15
+2025-03-01,DK,1100,6020,Bonus accrual,47790.52
+2025-03-01,DK,1100,6100,Travel,19507.38
+2025-03-01,DK,1100,6200,Marketing,75639.74
+2025-03-01,DK,1100,6300,Rent & facilities,97375.0
+2025-03-01,DK,1100,6400,IT & software,47217.17
+2025-03-01,DK,1100,6500,Consultancy & audit,13979.01
+2025-03-01,DK,1100,6600,Vehicle costs,43682.04
+2025-03-01,DK,1100,6700,Other operating costs,11223.68
+2025-03-01,DK,1100,7000,Depreciation,60093.26
+2025-03-01,DK,1100,7100,Management fee (intercompany),-188411.92
+2025-03-01,DK,1100,8000,Interest expense,36900.0
+2025-03-01,DK,1100,8100,FX gains/losses,-16269.02
+2025-03-01,DK,1100,9000,Income tax,71553.99

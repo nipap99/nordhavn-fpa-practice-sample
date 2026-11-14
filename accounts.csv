@@ -1,0 +1,30 @@
+Account,Account name,Account type,Reporting line L1,Reporting line L2,Normal balance
+4000,Sales - Heat pumps,Revenue,Net revenue,Product sales,Credit
+4010,Sales - Ventilation,Revenue,Net revenue,Product sales,Credit
+4020,Sales - Boilers,Revenue,Net revenue,Product sales,Credit
+4030,Sales - Controls & sensors,Revenue,Net revenue,Product sales,Credit
+4040,Sales - Spare parts,Revenue,Net revenue,Product sales,Credit
+4100,Service contract revenue,Revenue,Net revenue,Service revenue,Credit
+4500,Customer rebates,Revenue,Net revenue,Rebates & returns,Debit
+4600,Returns & credit notes,Revenue,Net revenue,Rebates & returns,Debit
+5000,Material cost at standard,COGS,Cost of sales,Material,Debit
+5100,Purchase price variance,COGS,Cost of sales,Material,Debit
+5200,Freight out,COGS,Cost of sales,Logistics,Debit
+5300,Warranty provision,COGS,Cost of sales,Warranty,Debit
+5400,Inventory write-down,COGS,Cost of sales,Inventory,Debit
+6000,Salaries,Opex,Operating expenses,Personnel,Debit
+6010,Social costs & pension,Opex,Operating expenses,Personnel,Debit
+6020,Bonus accrual,Opex,Operating expenses,Personnel,Debit
+6100,Travel,Opex,Operating expenses,Other opex,Debit
+6200,Marketing,Opex,Operating expenses,Other opex,Debit
+6300,Rent & facilities,Opex,Operating expenses,Other opex,Debit
+6400,IT & software,Opex,Operating expenses,Other opex,Debit
+6500,Consultancy & audit,Opex,Operating expenses,Other opex,Debit
+6600,Vehicle costs,Opex,Operating expenses,Other opex,Debit
+6700,Other operating costs,Opex,Operating expenses,Other opex,Debit
+6800,Restructuring costs,Opex,Operating expenses,Non-recurring,Debit
+7000,Depreciation,D&A,Depreciation & amortisation,Depreciation,Debit
+7100,Management fee (intercompany),Intercompany,Operating expenses,Intercompany,Debit
+8000,Interest expense,Finance,Net finance cost,Interest,Debit
+8100,FX gains/losses,Finance,Net finance cost,FX,Debit
+9000,Income tax,Tax,Income tax,Income tax,Debit

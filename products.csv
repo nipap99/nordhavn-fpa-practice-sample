@@ -1,0 +1,49 @@
+SKU,Product name,Family code,Product family,Unit of measure,List price 2024 (EUR),List price 2025 (EUR),List price 2026 (EUR),Std cost 2024 (EUR),Std cost 2025 (EUR),Std cost 2026 (EUR)
+HP-AW20,AeroTherm AW 20 kW air/water heat pump,HP,Heat Pumps,Unit,9200,9614.0,9902.42,4600.0,4692.0,4973.52
+HP-AW30,AeroTherm AW 30 kW air/water heat pump,HP,Heat Pumps,Unit,12400,12958.0,13346.74,6200.0,6324.0,6703.44
+HP-AW45,AeroTherm AW 45 kW air/water heat pump,HP,Heat Pumps,Unit,16800,17556.0,18082.68,8568.0,8739.36,9263.72
+HP-AW60,AeroTherm AW 60 kW air/water heat pump,HP,Heat Pumps,Unit,21500,22467.5,23141.52,10965.0,11184.3,11855.36
+HP-AW90,AeroTherm AW 90 kW air/water heat pump,HP,Heat Pumps,Unit,29800,31141.0,32075.23,15496.0,15805.92,16754.28
+HP-AW120,AeroTherm AW 120 kW air/water heat pump,HP,Heat Pumps,Unit,37900,39605.5,40793.66,19708.0,20102.16,21308.29
+HP-GS40,TerraTherm GS 40 kW ground-source heat pump,HP,Heat Pumps,Unit,24500,25602.5,26370.57,12005.0,12245.1,12979.81
+HP-GS80,TerraTherm GS 80 kW ground-source heat pump,HP,Heat Pumps,Unit,41000,42845.0,44130.35,20090.0,20491.8,21721.31
+VEN-ERV08,FlowRecover ERV 800 m3/h energy recovery unit,VEN,Ventilation,Unit,3900,4075.5,4197.76,2028.0,2068.56,2192.67
+VEN-AHU15,"AirFlow AHU 1,500 m3/h",VEN,Ventilation,Unit,6400,6688.0,6888.64,3392.0,3459.84,3667.43
+VEN-AHU30,"AirFlow AHU 3,000 m3/h",VEN,Ventilation,Unit,9800,10241.0,10548.23,5194.0,5297.88,5615.75
+VEN-AHU60,"AirFlow AHU 6,000 m3/h",VEN,Ventilation,Unit,16900,17660.5,18190.31,9126.0,9308.52,9867.03
+VEN-AHU100,"AirFlow AHU 10,000 m3/h",VEN,Ventilation,Unit,27500,28737.5,29599.62,14850.0,15147.0,16055.82
+VEN-AHU160,"AirFlow AHU 16,000 m3/h",VEN,Ventilation,Unit,44800,46816.0,48220.48,24640.0,25132.8,26640.77
+BOI-CG60,CondenseMax CG 60 kW gas boiler,BOI,Boilers,Unit,3600,3762.0,3874.86,1980.0,2019.6,2070.09
+BOI-CG100,CondenseMax CG 100 kW gas boiler,BOI,Boilers,Unit,5200,5434.0,5597.02,2860.0,2917.2,2990.13
+BOI-CG150,CondenseMax CG 150 kW gas boiler,BOI,Boilers,Unit,7100,7419.5,7642.08,3976.0,4055.52,4156.91
+BOI-CG250,CondenseMax CG 250 kW gas boiler,BOI,Boilers,Unit,10400,10868.0,11194.04,5824.0,5940.48,6088.99
+BOI-CG400,CondenseMax CG 400 kW gas boiler,BOI,Boilers,Unit,12900,13480.5,13884.91,7353.0,7500.06,7687.56
+CTL-BMS1,NordLogic BMS-1 building controller,CTL,Controls & Sensors,Unit,2450,2560.25,2637.06,882.0,899.64,922.13
+CTL-BMS2,NordLogic BMS-2 zone controller,CTL,Controls & Sensors,Unit,1650,1724.25,1775.98,610.5,622.71,638.28
+CTL-TH01,"Room thermostat, wired",CTL,Controls & Sensors,Unit,145,151.52,156.07,47.85,48.81,50.03
+CTL-TH02,"Room thermostat, wireless",CTL,Controls & Sensors,Unit,210,219.45,226.03,71.4,72.83,74.65
+CTL-SNCO2,CO2 sensor,CTL,Controls & Sensors,Unit,185,193.32,199.12,57.35,58.5,59.96
+CTL-SNTMP,Temperature sensor,CTL,Controls & Sensors,Unit,85,88.82,91.49,25.5,26.01,26.66
+CTL-SNHUM,Humidity sensor,CTL,Controls & Sensors,Unit,120,125.4,129.16,37.2,37.94,38.89
+CTL-VLV25,Actuated valve DN25,CTL,Controls & Sensors,Unit,390,407.55,419.78,163.8,167.08,171.25
+CTL-VLV50,Actuated valve DN50,CTL,Controls & Sensors,Unit,620,647.9,667.34,266.6,271.93,278.73
+CTL-GW01,NordLogic cloud gateway,CTL,Controls & Sensors,Unit,890,930.05,957.95,311.5,317.73,325.67
+CTL-MTR,Energy meter,CTL,Controls & Sensors,Unit,540,564.3,581.23,216.0,220.32,225.83
+CTL-DSP,Touch control display,CTL,Controls & Sensors,Unit,760,794.2,818.03,288.8,294.58,301.94
+SPR-FLTG4,Filter set G4,SPR,Spare Parts,Unit,48,50.16,51.66,13.44,13.71,14.05
+SPR-FLTF7,Filter set F7,SPR,Spare Parts,Unit,86,89.87,92.57,24.94,25.44,26.07
+SPR-FANM,Fan motor EC,SPR,Spare Parts,Unit,410,428.45,441.3,172.2,175.64,180.04
+SPR-CMPS,"Compressor, small",SPR,Spare Parts,Unit,1450,1515.25,1560.71,696.0,709.92,727.67
+SPR-CMPL,"Compressor, large",SPR,Spare Parts,Unit,2650,2769.25,2852.33,1298.5,1324.47,1357.58
+SPR-PCB,Main control board,SPR,Spare Parts,Unit,520,543.4,559.7,187.2,190.94,195.72
+SPR-PMP,Circulation pump,SPR,Spare Parts,Unit,380,397.1,409.01,152.0,155.04,158.92
+SPR-EXV,Electronic expansion valve,SPR,Spare Parts,Unit,240,250.8,258.32,91.2,93.02,95.35
+SPR-SNSK,Sensor kit,SPR,Spare Parts,Unit,65,67.92,69.96,19.5,19.89,20.39
+SPR-BRN,Burner kit,SPR,Spare Parts,Unit,610,637.45,656.57,268.4,273.77,280.61
+SPR-HEX,Plate heat exchanger,SPR,Spare Parts,Unit,1180,1233.1,1270.09,542.8,553.66,567.5
+SPR-SVCK,Annual service kit,SPR,Spare Parts,Unit,120,125.4,129.16,38.4,39.17,40.15
+SVC-BASIC,Service agreement Basic (per site / month),SVC,Service Contracts,Site-month,145,150.07,155.33,81.2,82.82,84.89
+SVC-PLUS,Service agreement Plus (per site / month),SVC,Service Contracts,Site-month,260,269.1,278.52,140.4,143.21,146.79
+SVC-PREM,Service agreement Premium (per site / month),SVC,Service Contracts,Site-month,420,434.7,449.91,218.4,222.77,228.34
+SVC-RMON,Remote monitoring (per site / month),SVC,Service Contracts,Site-month,75,77.62,80.34,21.0,21.42,21.96
+SVC-247,24/7 priority response (per site / month),SVC,Service Contracts,Site-month,610,631.35,653.45,353.8,360.88,369.9
