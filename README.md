@@ -4,7 +4,7 @@ A small, fully synthetic dataset for practising FP&A analysis in Excel, SQL or P
 
 This sample covers **one entity (Denmark, DKK) and one quarter (Q1 2025)**: about 1,700 invoice lines, 74 customers, 48 SKUs, a GL P&L extract, FX rates and the chart of accounts. All names, customers and numbers are invented.
 
-## Files (`data/`)
+## Files
 
 | File | Contents |
 |---|---|
@@ -19,7 +19,7 @@ This sample covers **one entity (Denmark, DKK) and one quarter (Q1 2025)**: abou
 2. Which customers have the highest discount leakage versus their standard discount?
 3. Split a revenue change between price, volume and mix across the three months.
 
-`examples/quick_look.py` shows a first pass with pandas.
+`quick_look.py` shows a first pass with pandas.
 
 ## Want the full case?
 
